@@ -15,3 +15,7 @@ Download or build the ``.jar`` and include it in your project as a library, then
 ## Documentation
 Clone the repository, inside the ``Documentation`` folder, you will find the ``index.html`` file which you can open 
 on your preferred browser.
+
+##
+
+##### _Project link: [freelancer.com](https://www.freelancer.com/projects/software-architecture/screen-scraper-java/)_
